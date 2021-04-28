@@ -137,7 +137,7 @@ print(paste(lcl, ucl))
 The lower confidence intervals that Dr. j would win would be approximately `r lcl`, ucl is `r ucl`
 
 
-# Discussion and Conclusion
+#  Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
