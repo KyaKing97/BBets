@@ -39,7 +39,7 @@ There are 3 questions and there should be at least 3 separate commits, at least 
 URN = 1:365
 ```
 
-# What is Brownlow's average profit/loss
+#  What is Brownlow's average profit/loss
 
 ```{r}
 classSize = 35
