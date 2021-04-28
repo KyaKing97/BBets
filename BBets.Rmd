@@ -67,7 +67,7 @@ favstats(saveBank)
 ```
 The average amount that Dr. J would make is $17,and the worst he could do would be to lose about $93, the best would be around $122.
 
-# What size of class makes the 2:1 bet fair?  
+#  What size of class makes the 2:1 bet fair?  
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
 ```{r}
